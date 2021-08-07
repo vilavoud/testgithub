@@ -1,9 +1,13 @@
 .container {
+    color:blue;
     width: 1148px;
     margin: 0 auto;
     overflow: hidden;
 }
 
+.body H1{
+    text-align: center;
+}
 .brand{
     float: left;
 }
@@ -11,6 +15,7 @@
 .menu{
     float: right;
     list-style-type: none;
+
 }
 
 .container img{
